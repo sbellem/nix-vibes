@@ -2,6 +2,15 @@
 Resources for nix, the package manager
 
 
+## Rust
+* Main docs: https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md
+
+* Overlay: https://github.com/oxalica/rust-overlay
+
+For cross-compilation (e.g. custom target) see https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md.
+
+
+
 ## Reproducible Builds
 * Nix Manual: [Verifying Build Reproducibility](https://nixos.org/manual/nix/stable/advanced-topics/diff-hook.html?highlight=reproducible%20build#verifying-build-reproducibility)
 
