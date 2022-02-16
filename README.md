@@ -1,11 +1,15 @@
 # nix-vibes
 Resources for nix, the package manager
 
+## Flakes
+* https://nixos.wiki/wiki/Flakes
+* **excellent**: https://serokell.io/blog/practical-nix-flakes
 
 ## Rust
 * Main docs: https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md
 
 * Overlay: https://github.com/oxalica/rust-overlay
+* Useful issue for `devShell` (with `flakes`): https://github.com/oxalica/rust-overlay/issues/30
 
 For cross-compilation (e.g. custom target) see https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md.
 
