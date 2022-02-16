@@ -9,6 +9,7 @@ Resources for nix, the package manager
 * Main docs: https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md
 
 * Overlay: https://github.com/oxalica/rust-overlay
+* https://www.srid.ca/rust-nix
 * Useful issue for `devShell` (with `flakes`): https://github.com/oxalica/rust-overlay/issues/30
 
 For cross-compilation (e.g. custom target) see https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md.
