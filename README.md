@@ -28,6 +28,9 @@ https://nix-community.github.io/awesome-nix/
 For cross-compilation (e.g. custom target) see https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md.
 
 
+## Cross-Compilation
+* https://nixos.wiki/wiki/Cross_Compiling
+* https://matthewbauer.us/blog/beginners-guide-to-cross.html
 
 ## Reproducible Builds
 * Nix Manual: [Verifying Build Reproducibility](https://nixos.org/manual/nix/stable/advanced-topics/diff-hook.html?highlight=reproducible%20build#verifying-build-reproducibility)
