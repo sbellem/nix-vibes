@@ -1,6 +1,8 @@
 # nix-vibes
 Resources for nix, the package manager
 
+https://nix-community.github.io/awesome-nix/
+
 ## Flakes
 * https://nixos.wiki/wiki/Flakes
 * **excellent**: https://serokell.io/blog/practical-nix-flakes
