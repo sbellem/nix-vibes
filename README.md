@@ -24,6 +24,9 @@ https://nix-community.github.io/awesome-nix/
 * https://hadean.com/managing-rust-dependencies-with-nix-part-i/
 * https://github.com/Twey/mkRustCrate/
 
+**Extensions**
+* https://github.com/NixOS/nixpkgs/issues/95332
+
 ### Examples
 * Useful issue for `devShell` (with `flakes`): https://github.com/oxalica/rust-overlay/issues/30
 * https://github.com/kamadorueda/alejandra/blob/main/flake.nix
