@@ -3,6 +3,11 @@ Resources for nix, the package manager
 
 https://nix-community.github.io/awesome-nix/
 
+## Nix Expression Language
+* https://learnxinyminutes.com/docs/nix/
+* https://nixos.org/manual/nix/stable/#ch-expression-language
+* https://nixos.wiki/wiki/Nix_Expression_Language
+
 ## Flakes
 * https://nixos.wiki/wiki/Flakes
 * **excellent**: https://serokell.io/blog/practical-nix-flakes
