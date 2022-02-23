@@ -31,6 +31,7 @@ https://nix-community.github.io/awesome-nix/
 * Useful issue for `devShell` (with `flakes`): https://github.com/oxalica/rust-overlay/issues/30
 * https://github.com/kamadorueda/alejandra/blob/main/flake.nix
 * https://github.com/enarx/enarx/blob/main/flake.nix
+* https://github.com/Holo-Host/holo-nixpkgs
 
 ### Documentation
 For cross-compilation (e.g. custom target) see https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md.
