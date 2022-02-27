@@ -11,6 +11,7 @@ https://nix-community.github.io/awesome-nix/
 ## Flakes
 * https://nixos.wiki/wiki/Flakes
 * **excellent**: https://serokell.io/blog/practical-nix-flakes
+* https://github.com/colemickens/nixos-flake-example
 
 ## Rust
 * Main docs: https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md
