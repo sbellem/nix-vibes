@@ -15,6 +15,7 @@ https://nix-community.github.io/awesome-nix/
 * https://hoverbear.org/blog/a-flake-for-your-crate/
 * https://zimbatm.com/notes/nixflakes
 * (perhaps outdated) https://gist.github.com/edolstra/40da6e3a4d4ee8fd019395365e0772e7
+* https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/#creating-a-flake-for-this-blog
 
 ## Rust
 * Main docs: https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md
