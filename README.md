@@ -65,4 +65,5 @@ nix-build --option sandbox true --option enforce-determinism true --option repea
 * https://news.ycombinator.com/item?id=24981633
 * https://serokell.io/blog/what-is-nix
 * https://plurrrr.com/archive/2021/11/30.html
+* https://chameth.com/reproducible-builds-docker-images/
 
