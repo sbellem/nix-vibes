@@ -60,3 +60,9 @@ nix-build --option sandbox true --option enforce-determinism true --option repea
 * [Reproducible Builds: Nix vs Docker](https://discourse.nixos.org/t/resources-that-explains-nix-vs-docker-for-reproducible-builds/9508)
 
 * Could [`flakes`](https://nixos.wiki/wiki/Flakes) help? https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047/4
+* [Will Nix overtake Docker?](https://blog.replit.com/nix-vs-docker)
+* https://news.ycombinator.com/item?id=29387137
+* https://news.ycombinator.com/item?id=24981633
+* https://serokell.io/blog/what-is-nix
+* https://plurrrr.com/archive/2021/11/30.html
+
