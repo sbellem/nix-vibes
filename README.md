@@ -61,6 +61,7 @@ nix-build --option sandbox true --option enforce-determinism true --option repea
 
 * [Is NixOS Reproducible?](https://r13y.com/) -- See last section "How can I test my patches?" about the trick of using `nix-build --check`
 * [Reproducible Builds: Nix vs Docker](https://discourse.nixos.org/t/resources-that-explains-nix-vs-docker-for-reproducible-builds/9508)
+* [On using Nix and Docker as deployment automation solutions: similarities and differences](https://sandervanderburg.blogspot.com/2020/07/on-using-nix-and-docker-as-deployment.html)
 * Could [`flakes`](https://nixos.wiki/wiki/Flakes) help? https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047/4
 * [Will Nix overtake Docker?](https://blog.replit.com/nix-vs-docker)
 * https://news.ycombinator.com/item?id=29387137
