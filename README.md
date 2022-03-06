@@ -24,6 +24,10 @@ https://nix-community.github.io/awesome-nix/
 * https://github.com/oxalica/rust-overlay
 * https://github.com/nix-community/fenix
 
+**Building for Workspaces**
+* https://discourse.nixos.org/t/using-buildrustcrate-to-build-a-project-within-a-cargo-workspace/15672
+* https://github.com/efx/nix-flake-cargo-workspace
+
 **Tutorials**
 * https://www.srid.ca/rust-nix
 * https://hadean.com/managing-rust-dependencies-with-nix-part-i/
