@@ -76,4 +76,5 @@ nix-build --option sandbox true --option enforce-determinism true --option repea
 * https://users.rust-lang.org/t/testing-out-reproducible-builds/9758
 * https://github.com/rust-lang/rust/issues/34902
 * https://github.com/CosmWasm/wasmvm/issues/136
+* https://www.reddit.com/r/rust/comments/jct0y4/when_reproducible_builds/
 
