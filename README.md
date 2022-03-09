@@ -77,4 +77,8 @@ nix-build --option sandbox true --option enforce-determinism true --option repea
 * https://github.com/rust-lang/rust/issues/34902
 * https://github.com/CosmWasm/wasmvm/issues/136
 * https://www.reddit.com/r/rust/comments/jct0y4/when_reproducible_builds/
+* (C, C++, rust) https://nikhilism.com/post/2020/windows-deterministic-builds/
 
+### papers
+[Reproducible Builds: Increasing the Integrity of Software Supply Chains](https://arxiv.org/abs/2104.06020)
+[1-2-3 Reproducibility for Quantum Software Experiments](https://arxiv.org/abs/2201.12031)
