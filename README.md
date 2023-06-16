@@ -24,6 +24,10 @@ https://nix-community.github.io/awesome-nix/
 * https://github.com/oxalica/rust-overlay
 * https://github.com/nix-community/fenix
 
+**Cross-compilation**
+* https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/rust.section.md#cross-compilation-cross-compilation
+* https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md
+
 **Building for Workspaces**
 * https://discourse.nixos.org/t/using-buildrustcrate-to-build-a-project-within-a-cargo-workspace/15672
 * https://github.com/efx/nix-flake-cargo-workspace
